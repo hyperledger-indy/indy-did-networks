@@ -1,7 +1,7 @@
 
 # Indy network registry
 
-This repository contains a registry created and governed by the Hyperledger Indy community. It aims to improve interoperability of indy networks by establishing a registry for existing Indy-based networks and providing genesis files for the corresponding ledgers. It is based on the work of the did:indy spec available [on github](https://github.com/hyperledger/indy-did-method) or in a [rendered version](https://hyperledger.github.io/indy-did-method/).
+This repository contains a registry created and governed by the Hyperledger Indy community. It aims to improve interoperability of indy networks by establishing a registry for existing Indy-based networks and providing genesis files for the corresponding ledgers. It is based on the work of the did:indy spec available [on github](https://github.com/hyperledger-indy/indy-did-method) or in a [rendered version](https://hyperledger-indy.github.io/indy-did-method/).
 
 
 # About
